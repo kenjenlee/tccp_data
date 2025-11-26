@@ -1,21 +1,21 @@
 afternoon,station_name,value,latitude,longitude
-0,Central Park S & 6 Ave,"11,348",40.77,-73.98
-0,Centre St & Chambers St,"3,362",40.71,-74
-0,12 Ave & W 40 St,"2,951",40.76,-74
-0,West St & Chambers St,"2,934",40.72,-74.01
-0,Broadway & W 58 St,"2,159",40.77,-73.98
-0,Vesey Pl & River Terrace,"1,838",40.72,-74.02
-0,West Thames St,"1,449",40.71,-74.02
-0,8 Ave & W 52 St,"1,392",40.76,-73.99
-0,Christopher St & Greenwich St,"1,359",40.73,-74.01
-0,Old Fulton St,"1,353",40.7,-73.99
-1,Central Park S & 6 Ave,"44,355",40.77,-73.98
-1,Centre St & Chambers St,"16,308",40.71,-74
-1,West St & Chambers St,"11,231",40.72,-74.01
-1,12 Ave & W 40 St,"10,548",40.76,-74
-1,Broadway & W 58 St,"8,164",40.77,-73.98
-1,Yankee Ferry Terminal,"7,949",40.69,-74.02
-1,Soissons Landing,"7,195",40.69,-74.02
-1,Old Fulton St,"7,017",40.7,-73.99
-1,Greenwich Ave & Charles St,"6,969",40.74,-74
-1,Atlantic Ave & Furman St,"6,544",40.69,-74
+0,Central Park S & 6 Ave,11348,40.77,-73.98
+0,Centre St & Chambers St,3362,40.71,-74
+0,12 Ave & W 40 St,2951,40.76,-74
+0,West St & Chambers St,2934,40.72,-74.01
+0,Broadway & W 58 St,2159,40.77,-73.98
+0,Vesey Pl & River Terrace,1838,40.72,-74.02
+0,West Thames St,1449,40.71,-74.02
+0,8 Ave & W 52 St,1392,40.76,-73.99
+0,Christopher St & Greenwich St,1359,40.73,-74.01
+0,Old Fulton St,1353,40.7,-73.99
+1,Central Park S & 6 Ave,44355,40.77,-73.98
+1,Centre St & Chambers St,16308,40.71,-74
+1,West St & Chambers St,11231,40.72,-74.01
+1,12 Ave & W 40 St,10548,40.76,-74
+1,Broadway & W 58 St,8164,40.77,-73.98
+1,Yankee Ferry Terminal,7949,40.69,-74.02
+1,Soissons Landing,7195,40.69,-74.02
+1,Old Fulton St,7017,40.7,-73.99
+1,Greenwich Ave & Charles St,6969,40.74,-74
+1,Atlantic Ave & Furman St,6544,40.69,-74
